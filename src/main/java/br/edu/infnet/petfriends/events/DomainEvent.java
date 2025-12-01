@@ -1,4 +1,4 @@
-package br.edu.infnet.petfriends.eventos;
+package br.edu.infnet.petfriends.events;
 
 import java.time.Instant;
 
